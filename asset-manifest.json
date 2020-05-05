@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/milocaetano/techneramemes/static/css/main.c92a6ee9.chunk.css",
+    "main.js": "/milocaetano/techneramemes/static/js/main.14cf3f53.chunk.js",
+    "main.js.map": "/milocaetano/techneramemes/static/js/main.14cf3f53.chunk.js.map",
+    "runtime-main.js": "/milocaetano/techneramemes/static/js/runtime-main.199ec854.js",
+    "runtime-main.js.map": "/milocaetano/techneramemes/static/js/runtime-main.199ec854.js.map",
+    "static/js/2.b128b112.chunk.js": "/milocaetano/techneramemes/static/js/2.b128b112.chunk.js",
+    "static/js/2.b128b112.chunk.js.map": "/milocaetano/techneramemes/static/js/2.b128b112.chunk.js.map",
+    "index.html": "/milocaetano/techneramemes/index.html",
+    "precache-manifest.8c39226d6c143c7a872477f6e9df464a.js": "/milocaetano/techneramemes/precache-manifest.8c39226d6c143c7a872477f6e9df464a.js",
+    "service-worker.js": "/milocaetano/techneramemes/service-worker.js",
+    "static/css/main.c92a6ee9.chunk.css.map": "/milocaetano/techneramemes/static/css/main.c92a6ee9.chunk.css.map",
+    "static/js/2.b128b112.chunk.js.LICENSE.txt": "/milocaetano/techneramemes/static/js/2.b128b112.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.199ec854.js",
+    "static/js/2.b128b112.chunk.js",
+    "static/css/main.c92a6ee9.chunk.css",
+    "static/js/main.14cf3f53.chunk.js"
+  ]
+}
