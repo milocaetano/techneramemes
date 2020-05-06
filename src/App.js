@@ -10,12 +10,12 @@ function App() {
   
   return (
     <div className="app">
-      <Tweet name="Camilo Caetano"></Tweet>
-      <Tweet name="Marina Caetano"></Tweet>
-      <Tweet name="Thais Caetano"></Tweet>
-      <Tweet name="Célia Regina Caetano"></Tweet>
-      <Tweet name="Helio Aparecido"></Tweet>
-      <Tweet name="Anna Maura Gandra"></Tweet>
+      <Tweet name="Camilo Caetano" conteudo="aqui vai um texto"></Tweet>
+      <Tweet name="Marina Caetano" conteudo="aqui vai um texto"></Tweet>
+      <Tweet name="Thais Caetano" conteudo="aqui vai um texto"></Tweet>
+      <Tweet name="Célia Regina Caetano" conteudo="aqui vai um texto"></Tweet>
+      <Tweet name="Helio Aparecido" conteudo="aqui vai um texto"></Tweet>
+      <Tweet name="Anna Maura Gandra" conteudo="aqui vai um texto"> </Tweet>
     </div>
   );
 }
